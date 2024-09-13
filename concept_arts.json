@@ -6040,12 +6040,25 @@
         "series": "SEVENS",
         "characters": [
             {
+                "name": "Yuran Goha",
+                "sources": [
+                    "https://ekizo.mandarake.co.jp/auction/item/itemInfoEn.html?index=734691"
+                ]
+            },
+            {
+                "name": "Swirls/Guruguru",
+                "sources": [
+                    "https://ekizo.mandarake.co.jp/auction/item/itemInfoEn.html?index=734691"
+                ]
+            },
+            {
                 "name": "Gavin/Gakuto Sogetsu",
                 "sources": [
                     "https://ekizo.mandarake.co.jp/auction/item/itemInfoEn.html?index=726406",
                     "https://ekizo.mandarake.co.jp/auction/item/itemInfoEn.html?index=679111",
                     "https://ekizo.mandarake.co.jp/auction/item/itemInfoEn.html?index=694834",
                     "https://ekizo.mandarake.co.jp/auction/item/itemInfoEn.html?index=699713",
+                    "https://ekizo.mandarake.co.jp/auction/item/itemInfoEn.html?index=734691",
                     "http://setteidreams.net/settei/yu-gi-oh-sevens/index.php?pic=027.png",
                     "http://setteidreams.net/settei/yu-gi-oh-sevens/index.php?pic=028.png",
                     "http://setteidreams.net/settei/yu-gi-oh-sevens/index.php?pic=030.png",
@@ -6082,6 +6095,7 @@
                     "https://ekizo.mandarake.co.jp/auction/item/itemInfoEn.html?index=694834",
                     "https://ekizo.mandarake.co.jp/auction/item/itemInfoEn.html?index=699713",
                     "https://ekizo.mandarake.co.jp/auction/item/itemInfoEn.html?index=726406",
+                    "https://ekizo.mandarake.co.jp/auction/item/itemInfoEn.html?index=734691",
                     "http://setteidreams.net/settei/yu-gi-oh-sevens/index.php?pic=008.png",
                     "http://setteidreams.net/settei/yu-gi-oh-sevens/index.php?pic=009.png",
                     "http://setteidreams.net/settei/yu-gi-oh-sevens/index.php?pic=011.png",
@@ -6177,6 +6191,18 @@
                 "name": "Spell Archer",
                 "sources": [
                     "https://ekizo.mandarake.co.jp/auction/item/itemInfoEn.html?index=679111"
+                ]
+            },
+            {
+                "name": "Esperade the Smashing Superstar",
+                "sources": [
+                    "https://ekizo.mandarake.co.jp/auction/item/itemInfoEn.html?index=734691"
+                ]
+            },
+            {
+                "name": "Romanpick",
+                "sources": [
+                    "https://ekizo.mandarake.co.jp/auction/item/itemInfoEn.html?index=734691"
                 ]
             }
         ],
