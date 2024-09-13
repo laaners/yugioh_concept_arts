@@ -1,0 +1,59 @@
+TODO:
+fanmade cards
+
+https://yugipedia.com/wiki/File:
+
+DONE SETTEI:
+season 0
+5ds
+dsod (no locations)
+zexal (no locations)
+vrains (no props nor locations)
+
+//not yet
+http://setteidreams.net/settei/yu-gi-oh-sevens/index.php?pic=052.png
+
+https://ekizo.mandarake.co.jp/auction/item/itemInfoEn.html?index=324658
+https://ekizo.mandarake.co.jp/auction/item/itemInfoEn.html?index=
+https://ekizo.mandarake.co.jp/auction/item/itemInfoEn.html?index=
+https://ekizo.mandarake.co.jp/auction/item/itemInfoEn.html?index=699713
+
+
+https://pdutogepi.tumblr.com/tagged/gx%20scans/chrono
+Array.from(document.body.querySelectorAll("img")).forEach(_=>{
+    console.log(_.getAttribute("data-pin-url"))
+})
+
+obj = []
+Array.from(document.body.querySelectorAll(".posts p")).forEach(_=>{
+    text = _.innerText
+    text.split("\n").forEach(line=>{
+        const tmp = line.slice(2)
+        if(tmp === undefined) return
+        tmp.split("/").forEach(name=>{
+            if(name.length === 0) return
+            if(name.includes("Gi-Oh! Duel Monsters GX")) return
+            obj.push({
+                name,
+                sources:[window.location.href]
+            })
+        })
+    })
+})
+console.log(obj)
+
+
+
+idk
+https://yugioh-sheets-blog.tumblr.com/post/121433867623
+
+shark restrained
+https://yugioh-sheets-blog.tumblr.com/post/120120568058
+
+duel monster card
+https://yugioh-sheets-blog.tumblr.com/post/62456915895
+
+scenes
+https://yugioh-sheets-blog.tumblr.com/post/121709450983
+https://yugioh-sheets-blog.tumblr.com/post/83147548149
+https://yugioh-sheets-blog.tumblr.com/post/99787903103
