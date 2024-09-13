@@ -49,7 +49,7 @@ List:
 - [❌,❌] [Millennium Memory](https://e-hentai.org/g/2215813/2b5b87a74d/) (⚠️ hosted on NSFW website)
 - [❌,❌] [Rush Duel Rush Road Strategy Guide V Jump Books](https://e-hentai.org/g/2026484/f89ee009b4/) (⚠️ hosted on NSFW website)
 - [❌,❌] [Yu-Gi-Oh! Rush Duel Strongest Battle Royale!! Winners Spirit](https://e-hentai.org/g/2026495/39e940e29a/) (⚠️ hosted on NSFW website)
-- [❌,❌] [Duel Art](https://e-hentai.org/g/1856030/0142517e44/?p=1)
+- [❌,❌] [Duel Art](https://e-hentai.org/g/1856030/0142517e44/?p=1) (⚠️ hosted on NSFW website)
 - [❌|❌] Complete File: Story of White
 - [❌|✔️] [Settei Dreams](https://setteidreams.net/settei/)
 - [❌|✔️] [Tumblr "pdutogepi"](https://pdutogepi.tumblr.com/post/708284228679368704/yu-gi-oh-duel-monsters-gx-duel-box-12-booklet) (GX's Duel Box)
