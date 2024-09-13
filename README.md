@@ -27,7 +27,6 @@ No Go Rush since all of the concept arts are on twitter and have been already pu
 - [x] Venus
 - [x] Earth (Orbit/Moon)
 - [x] Mars
-- [ ] Jupiter
 - [ ] Saturn
 - [ ] Uranus
 - [ ] Neptune
